@@ -1,10 +1,9 @@
-# Vue Crash Course (TodoList)
+# VueJs-3.0-Small-ToDo-App
 
 This is the code for the crash course on YouTube
 
 ## Quick Start
 
-```bash
 # Install dependencies
 npm install
 
@@ -13,4 +12,3 @@ npm run serve
 
 # Build for production
 npm run build
-```
